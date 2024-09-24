@@ -3,7 +3,7 @@ Final project for DSC20 at UCSD. Making an app with features such as: blurring, 
 
 Some features of the app:
 
-**negate (self, image)**
+**negate (self, image)** \n
 ![Image](https://github.com/user-attachments/assets/c648044a-d80e-4943-914a-239a01a69ed7)
 The negate function returns the negative of an image (inverts pixels).
 
