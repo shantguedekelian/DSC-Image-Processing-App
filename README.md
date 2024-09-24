@@ -3,12 +3,16 @@ Final project for DSC20 at UCSD. Making an app with features such as: blurring, 
 
 Some features of the app:
 
-**negate (self, image)** \n
+**negate (self, image)** 
+
 ![Image](https://github.com/user-attachments/assets/c648044a-d80e-4943-914a-239a01a69ed7)
+
 The negate function returns the negative of an image (inverts pixels).
 
 **grayscale (self, image)**
+
 ![Image](https://github.com/user-attachments/assets/b00abd62-791e-4b8f-ba10-d42a8223a249)
+
 The grayscale function removes color from the image.
 
 **rotate_180 (self, image)**
